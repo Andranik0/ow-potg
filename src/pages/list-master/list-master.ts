@@ -18,7 +18,7 @@ export class ListMasterPage {
     this.currentItems = this.items.query();
     this.videoPlayer.play("http://flywithmint.esy.es/OW/Combo%20CalixaK_18-01-25_18-39-04.mp4");
   }
-
+ 
   /**
    * The view loaded, let's query our items for the list
    */
